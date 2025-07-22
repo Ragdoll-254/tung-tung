@@ -1,2 +1,32 @@
 body {
-    background-color: cyan;}
+    background-color: goldenrod;}
+
+    h1 {
+  color: red;
+  text-align: center;
+}
+p1 {
+  color: blue;
+}
+
+
+
+h2 {
+  color: white;
+  text-align: center;
+}
+pt2 {
+  color: green
+}
+
+h3 {
+  color: yellow;
+  text-align: center;
+}
+
+.A {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 50px;
+}
